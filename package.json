@@ -1,6 +1,6 @@
 {
     "name": "tkcreativekit",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "",
     "main": "./dist/index.js",
     "module": "./dist/index.mjs",
@@ -72,6 +72,5 @@
         "react-dom": ">= 16.8.0",
         "styled-components": ">= 5.3.3"
     },
-    "readme": "./README.md",
-    "_id": "tkcreativekit@0.0.1"
+    "readme": "./README.md"
 }
