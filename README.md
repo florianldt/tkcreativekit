@@ -19,7 +19,7 @@ This is the main repository used as support for the talk:
 -   Video: SOON
 -   Slides: [Link](github.com/florianldt/tkcreativekit)
 -   Figma: [Link](figma.com/file/xzj8gzuhGNqVyGfFNtCglC/Creative-Tokyo-Kit)
--   Storybook preview: [Link](.chromatic.com)
+-   Storybook preview: [Link](master--{appId}.chromatic.com)
 -   npm package: [Link](npmjs.com/package/tkcreativekit)
 -   Integration repo: [Link](github.com/florianldt/tkcreativekit-integration)
 
