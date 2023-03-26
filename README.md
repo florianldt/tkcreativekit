@@ -2,7 +2,7 @@
 
 This is the main repository used as support for the talk:
 
-![Presentation intro](https://i.imgur.com/jsQPV99.jpg)
+![Presentation intro](https://github.com/florianldt/tkcreativekit/blob/master/media/presentation-intro.jpeg?raw=true)
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This is the main repository used as support for the talk:
 **tkcreativekit** is a react implementation of a simple design system starting from the design up to the package release.
 
 -   Video: SOON
--   Slides: SOON
+-   Slides: [Link](https://github.com/florianldt/tkcreativekit/blob/master/media/presentation.pdf?raw=true)
 -   Figma: [Link](https://figma.com/file/xzj8gzuhGNqVyGfFNtCglC/Creative-Tokyo-Kit)
 -   Storybook preview: [Link](https://master--63f12fea8a787fc74f71d1b8.chromatic.com)
 -   npm package: [Link](https://npmjs.com/package/tkcreativekit)
