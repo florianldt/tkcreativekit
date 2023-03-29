@@ -68,7 +68,7 @@ function getShapeStyles({ shape }: RootStyleProps) {
             break;
         case 'rounded':
             return css`
-                border-radius: 7px;
+                border-radius: 14px;
             `;
         case 'pill':
             return css`

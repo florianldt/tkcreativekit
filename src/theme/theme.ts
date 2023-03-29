@@ -32,7 +32,7 @@ const colors: Colors = {
     gray40: '#E4E4E4',
     gray10: '#F7F7F7',
     white: '#FEFEFE',
-    accent: '#009672',
+    accent: '#029CFD',
 };
 
 const elevations: Elevations = {
